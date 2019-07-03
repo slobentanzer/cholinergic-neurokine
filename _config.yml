@@ -25,7 +25,7 @@ author: slobentanzer
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://slobentanzer.github.io'
-baseurl: '/ncrna-stroke'
+baseurl: '/cholinergic-neurokine'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -37,7 +37,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://slobentanzer.github.io/ncrna-stroke/images/'
+urlimg: 'https://slobentanzer.github.io/cholinergic-neurokine/images/'
 
 
 # Logo size is 600x80 pixels

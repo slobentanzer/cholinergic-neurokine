@@ -5,8 +5,8 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'http://127.0.0.1:4000/ncrna-stroke/'
-urlimg: 'http://127.0.0.1:4000/ncrna-stroke/images/'
+url: 'http://127.0.0.1:4000/cholinergic-neurokine/'
+urlimg: 'http://127.0.0.1:4000/cholinergic-neurokine/images/'
 
 
 sass:
