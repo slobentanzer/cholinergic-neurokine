@@ -4,15 +4,15 @@
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
 #    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/ 
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
 # Title of your website
-title: "Non-coding RNA in stroke"
+title: "Integrative transcriptomics"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Interactive networks of miRNA and tRF interaction in patient blood"
+slogan: "Interactive miRNA networks in neurokine-mediated cholinergic differentiation of male and female neuronal cells"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -41,7 +41,7 @@ urlimg: 'https://slobentanzer.github.io/cholinergic-neurokine/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "title.png"
 
 
 # Paginates all X entries

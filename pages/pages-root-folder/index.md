@@ -8,15 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: "bg.png"
 widget1:
-  title: "DE network"
-  url: 'https://slobentanzer.github.io/cholinergic-neurokine/clusters/col_by_module/de_seed_mir/index.html'
+  title: "DE network, Figure 5"
+  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/col_by_module/de_seed_mir/index.html'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Network of differentially expressed short non-coding RNAs and genes in blood of stroke patients'
+  text: 'Network of differentially expressed microRNAs and their targeted genes in neurokine-mediated cholinergic differentiation of male and female neuronal cells'
 widget2:
-  title: "Figure 3"
-  url: 'https://slobentanzer.github.io/cholinergic-neurokine/clusters/col_by_module/3-4neg/index.html'
+  title: "Cholinergic/neurokine network, Figure 6"
+  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/col_by_module/3-4neg/index.html'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Complete subnetwork 3-4 negative, from Publication Figure 3b'
+  text: ', from Publication Figure 6A'
 widget3:
   title: "Steelblue and magenta network"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
@@ -33,10 +33,12 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://natureofcourse.com
+  url: 'https://www.cell.com/cell-reports/home'
   text: Publication link ›
   style: alert
+  
 permalink: /index.html
+
 ---
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
