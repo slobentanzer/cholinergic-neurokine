@@ -5,42 +5,67 @@
   url: "/"
   side: left
 
-- title: "Full Network"
+- title: "Publication Figures"
   url: /
   side: left
   dropdown:
-  - title: "Full network, by module"
-    url: /networks/col_by_module/full/index.html
+  - title: "Figure 5, by module"
+    url: /networks/fig5/fig5_by_cell/index.html
+  - title: "Figure 5, by family"
+    url: /networks/fig5/fig5_by_family/index.html
+  - title: "Figure 6, by module"
+    url: /networks/fig6/fig6_by_cell/index.html
+  - title: "Figure 6, by family"
+    url: /networks/fig6/fig6_by_family/index.html
+
 - title: "Single families, female"
   url: /
   side: left
   dropdown:
   - title: "hsa-mir-515"
-    url: "/networks/single_families/col_by_de/female_enriched/mir515/index.html"
+    url: "/networks/single/female_enriched/mir515/index.html"
+  - title: "hsa-mir-10"
+    url: "/networks/single/female_enriched/mir10/index.html"
+  - title: "hsa-mir-17"
+    url: "/networks/single/female_enriched/mir17/index.html"
   - title: "hsa-mir-450"
-    url: "/networks/single_families/col_by_de/female_enriched/mir450/index.html"
-  - title: "hsa-mir-103"
-    url: "/networks/single_families/col_by_de/female_enriched/mir103/index.html"
+    url: "/networks/single/female_enriched/mir450/index.html"
+
 - title: "Single families, male"
   url: /
   side: left
   dropdown:
   - title: "hsa-mir-154"
-    url: "/networks/single_families/col_by_de/male_enriched/mir154/index.html"
+    url: "/networks/single/male_enriched/mir154/index.html"
   - title: "hsa-mir-181"
-    url: "/networks/single_families/col_by_de/male_enriched/mir181/index.html"
+    url: "/networks/single/male_enriched/mir181/index.html"
   - title: "hsa-mir-379"
-    url: "/networks/single_families/col_by_de/male_enriched/mir379/index.html"
+    url: "/networks/single/male_enriched/mir379/index.html"
   - title: "hsa-mir-199"
-    url: "/networks/single_families/col_by_de/male_enriched/mir199/index.html"
+    url: "/networks/single/male_enriched/mir199/index.html"
   - title: "hsa-mir-329"
-    url: "/networks/single_families/col_by_de/male_enriched/mir329/index.html"
+    url: "/networks/single/male_enriched/mir329/index.html"
   - title: "hsa-mir-192"
-    url: "/networks/single_families/col_by_de/male_enriched/mir192/index.html"
+    url: "/networks/single/male_enriched/mir192/index.html"
   - title: "hsa-mir-374"
-    url: "/networks/single_families/col_by_de/male_enriched/mir374/index.html"
+    url: "/networks/single/male_enriched/mir374/index.html"
   - title: "hsa-mir-23"
-    url: "/networks/single_families/col_by_de/male_enriched/mir23/index.html"
+    url: "/networks/single/male_enriched/mir23/index.html"
+
+- title: "Single families, both"
+  url: /
+  side: left
+  dropdown:
+  - title: "hsa-let-7"
+    url: "/networks/single/both_enriched/let7/index.html"
+  - title: "hsa-mir-30"
+    url: "/networks/single/both_enriched/mir30/index.html"
+  - title: "hsa-mir-130"
+    url: "/networks/single/both_enriched/mir130/index.html"
+  - title: "hsa-mir-320"
+    url: "/networks/single/both_enriched/mir320/index.html"
+  - title: "hsa-mir-27"
+    url: "/networks/single/both_enriched/mir27/index.html"
 
 
 

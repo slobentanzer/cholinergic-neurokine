@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: "bg.png"
 widget1:
-  title: "DE network, Figure 5"
-  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/col_by_module/de_seed_mir/index.html'
+  title: "Figure 5C: Comprehensive enriched families"
+  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/fig5/fig5_by_cell/index.html'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Network of differentially expressed microRNAs and their targeted genes in neurokine-mediated cholinergic differentiation of male and female neuronal cells'
+  text: 'Network of differentially enriched microRNA families and their 12495 targeted genes in neurokine-mediated cholinergic differentiation of male and female neuronal cells'
 widget2:
-  title: "Cholinergic/neurokine network, Figure 6"
-  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/col_by_module/3-4neg/index.html'
+  title: "Figure 6A: Cholinergic/neurokine interface"
+  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/fig6/fig6_by_cell/index.html'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ', from Publication Figure 6A'
+  text: 'Subnetwork of filtered miRs and genes of the cholinergic/neurokine interface'
 widget3:
-  title: "Steelblue and magenta network"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  title: "mir-10/199 families"
+  url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/single/mir10-mir199/index.html'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'Subnetwork of only mir-10/mir-199 family members and their gene targets'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,7 +36,7 @@ callforaction:
   url: 'https://www.cell.com/cell-reports/home'
   text: Publication link ›
   style: alert
-  
+
 permalink: /index.html
 
 ---
