@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Figure 5C: Comprehensive enriched families"
   url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/fig5/fig5_by_cell/index.html'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: /images/5C.jpg
   text: 'Network of differentially enriched microRNA families and their 12495 targeted genes in neurokine-mediated cholinergic differentiation of male and female neuronal cells'
 widget2:
   title: "Figure 6A: Cholinergic/neurokine interface"
   url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/fig6/fig6_by_cell/index.html'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: /images/6A.jpg
   text: 'Subnetwork of filtered miRs and genes of the cholinergic/neurokine interface'
 widget3:
   title: "mir-10/199 families"
   url: 'https://slobentanzer.github.io/cholinergic-neurokine/networks/single/mir10-mir199/index.html'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: /images/10-199.jpg
   text: 'Subnetwork of only mir-10/mir-199 family members and their gene targets'
 #
 # Use the call for action to show a button on the frontpage
