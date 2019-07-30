@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 'https://www.cell.com/cell-reports/home'
+  url: 'https://doi.org/10.1101/600932'
   text: Publication link ›
   style: alert
 
