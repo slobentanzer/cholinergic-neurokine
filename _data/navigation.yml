@@ -72,7 +72,7 @@
 #
 #   Navigation to the right › side: right
 #
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
